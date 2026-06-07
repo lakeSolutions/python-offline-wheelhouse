@@ -1,0 +1,1 @@
+scripts\install-data-engineering-offline-py312.ps1

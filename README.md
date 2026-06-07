@@ -18,3 +18,16 @@ Notes:
 - Python 3.11 wheels contain cp311
 Pure Python wheels may contain py3-none-any
 
+## Data Engineering wheelhouse for Python 3.12
+
+Packages included:
+
+- polars
+- pyarrow
+- networkx
+- duckdb
+
+Build:
+
+```powershell
+.\scripts\build-data-engineering-py312.ps1
